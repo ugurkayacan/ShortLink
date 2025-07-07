@@ -19,6 +19,5 @@ Uzun bağlantıları CleanURI API ile saniyeler içinde kısaltan basit bir C# k
 
 Bu uygulama, [CleanURI](https://cleanuri.com/) adlı ücretsiz URL kısaltma servisini kullanır. Herhangi bir API anahtarı gerektirmez.
 
-Bu proje, Microsoft Copilot desteğiyle planlandı ve geliştirildi. Kod açıklamaları, mimari kararlar ve API bilgileri yapay zekanın rehberliğinde oluşturulmuştur.
 
 
